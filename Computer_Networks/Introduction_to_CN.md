@@ -3,8 +3,8 @@
 | Sl. No. | Topic                                                   |
 | ------- | ------------------------------------------------------- |
 | 1       | [What is Network](#1-what-is-network)                   |
-| 2       | [Representation of Graphs](#2-representation-of-graphs) |
-| 3       | [Graph Traversal](#3-graph-traversal)                   |
+| 2       | [Types of Network ](#2-types-of-network)                |
+| 3       | [Network Devices](#3-network-devices)                   |
 
 ---
 
@@ -37,6 +37,21 @@ Whenever a Computer Network is working, nodes have the work of sending and recei
 - Reliability: In addition to accuracy is measured by frequency of failure, the time it takes a link to recover from failure, and the network’s robustness in catastrophe. 
 - Security: Network security issues include protecting data from unauthorized access, protecting data from damage and development, and implementing policies and procedures for recovery from breaches and data loss.  
 
+# Types of Network 
 
+## Division Based on Area Covered
+- Local Area Network (LAN): A LAN is a network that covers an area of around 10 kilometers. For example, a college network or an office network. Depending upon the needs of the organization, a LAN can be a single office, building, or Campus. We can have two PCs and one printer in-home office or it can extend throughout the company and include audio and video devices. Each host in LAN has an identifier, an address that defines hosts in LAN. A packet sent by the host to another host carries both the source host’s and the destination host’s address.
+- Metropolitan Area Network (MAN): MAN refers to a network that covers an entire city. For example: consider the cable television network.
+- Wide Area Network (WAN): WAN refers to a network that connects countries or continents. For example, the Internet allows users to access a distributed system called www from anywhere around the globe.WAN interconnects connecting devices such as switches, routers, or modems. A LAN is normally privately owned by an organization that uses it. We see two distinct examples of WANs today: point-to-point WANs and Switched WANs 
+   - Point To Point: Connects two connecting devices through transmission media. 
+   - Switched: A switched WAN is a network with more than two ends.
+
+## Types of Computer Network Architecture
+Computer Network Architecture is of two types. These types are mentioned below.
+
+- Client-Server Architecture: Client-Server Architecture is basically the architecture where the clients and the server are connected as two clients can communicate with each other and the devices present work as servers in the network.
+- Peer-to-Peer Architecture: Peer-to-Peer Architecture, computers are connected to each other and each computer is equally capable of working as there is no central server here. Each device present here can be used as a client or server.
+
+# Network Devices 
 
 
