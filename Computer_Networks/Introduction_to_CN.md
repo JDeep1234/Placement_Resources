@@ -33,9 +33,9 @@ Computer Networks simply work using nodes and links. Data communication equipmen
 Whenever a Computer Network is working, nodes have the work of sending and receiving data via the links. Computer Network provides some set of protocols that help in following the rules and protocols.
 
 ## Criteria of a Good Network
--Performance: It can be measured in many ways, including transmit time and response time. Transit time is the amount of time required for a message to travel from one device to another. Response time is the elapsed time between an inquiry and a response. The performance of the network depends on a number of factors, including the number of users, the type of medium & Hardware.
--Reliability: In addition to accuracy is measured by frequency of failure, the time it takes a link to recover from failure, and the network’s robustness in catastrophe. 
--Security: Network security issues include protecting data from unauthorized access, protecting data from damage and development, and implementing policies and procedures for recovery from breaches and data loss.  
+- Performance: It can be measured in many ways, including transmit time and response time. Transit time is the amount of time required for a message to travel from one device to another. Response time is the elapsed time between an inquiry and a response. The performance of the network depends on a number of factors, including the number of users, the type of medium & Hardware.
+- Reliability: In addition to accuracy is measured by frequency of failure, the time it takes a link to recover from failure, and the network’s robustness in catastrophe. 
+- Security: Network security issues include protecting data from unauthorized access, protecting data from damage and development, and implementing policies and procedures for recovery from breaches and data loss.  
 
 
 
