@@ -37,7 +37,7 @@ Whenever a Computer Network is working, nodes have the work of sending and recei
 - Reliability: In addition to accuracy is measured by frequency of failure, the time it takes a link to recover from failure, and the network’s robustness in catastrophe. 
 - Security: Network security issues include protecting data from unauthorized access, protecting data from damage and development, and implementing policies and procedures for recovery from breaches and data loss.  
 
-# Types of Network 
+# 2. Types of Network 
 
 ## Division Based on Area Covered
 - Local Area Network (LAN): A LAN is a network that covers an area of around 10 kilometers. For example, a college network or an office network. Depending upon the needs of the organization, a LAN can be a single office, building, or Campus. We can have two PCs and one printer in-home office or it can extend throughout the company and include audio and video devices. Each host in LAN has an identifier, an address that defines hosts in LAN. A packet sent by the host to another host carries both the source host’s and the destination host’s address.
@@ -52,6 +52,6 @@ Computer Network Architecture is of two types. These types are mentioned below.
 - Client-Server Architecture: Client-Server Architecture is basically the architecture where the clients and the server are connected as two clients can communicate with each other and the devices present work as servers in the network.
 - Peer-to-Peer Architecture: Peer-to-Peer Architecture, computers are connected to each other and each computer is equally capable of working as there is no central server here. Each device present here can be used as a client or server.
 
-# Network Devices 
+# 3. Network Devices 
 
 
