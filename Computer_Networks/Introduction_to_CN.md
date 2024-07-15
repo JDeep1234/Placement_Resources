@@ -5,6 +5,7 @@
 | 1       | [What is Network](#1-what-is-network)                   |
 | 2       | [Types of Network ](#2-types-of-network)                |
 | 3       | [Network Devices](#3-network-devices)                   |
+| 4       | [Network Topology](#4-network-topology)                 |
 
 ---
 
@@ -61,5 +62,20 @@ Computer Network Architecture is of two types. These types are mentioned below.
 - Switches: A switch differs from a hub in that it only forwards frames to the ports that are participating in the communication, rather than all of the ports that are connected. The collision domain is broken by a switch, yet the switch depicts itself as a broadcast domain. Frame-forwarding decisions are made by switches based on MAC addresses.
 - Routers: Routers are networking devices that use headers and forwarding tables to find the optimal way to forward data packets between networks. A router is a computer networking device that links two or more computer networks and selectively exchanges data packets between them. A router can use address information in each data packet to determine if the source and destination are on the same network or if the data packet has to be transported between networks. When numerous routers are deployed in a wide collection of interconnected networks, the routers share target system addresses so that each router can develop a table displaying the preferred pathways between any two systems on the associated networks.
 - Gateways: To provide system compatibility, a gateway may contain devices such as protocol translators, impedance-matching devices, rate converters, fault isolators, or signal translators. It also necessitates the development of administrative procedures that are acceptable to both networks. By completing the necessary protocol conversions, a protocol translation/mapping gateway joins networks that use distinct network protocol technologies.
+
+# 4. Network Topology
+
+The structure of the network and how each component is connected to the others are defined by the network topology. Different types of network topology are mentioned below:
+
+- Bus Topology
+- Ring Topology
+- Star Topology
+- Mesh Topology
+- Tree Topology
+
+## Bus Topology
+
+[Bus Topology][https://media.geeksforgeeks.org/wp-content/uploads/20230508175000/bus.webp]
+
 
 
