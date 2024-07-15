@@ -87,7 +87,10 @@ Every computer and network device is connected to a single cable in a bus topolo
    - A bus cable malfunction or break interrupts all communication
 
 ## Ring Topology
+
 The topology is named ring topology because one computer is connected to another, with the final one being connected to the first. Exactly two neighbors for each device. A signal is passed along the ring in one direction. Each ring incorporates a repeater. 
+
+![screenshot](Images/Ring_Topology.png)
 
   ## Advantages
    - Data transmission is relatively straightforward because packets only move in one direction
@@ -97,6 +100,53 @@ The topology is named ring topology because one computer is connected to another
   ## Disadvantages
    - In a Unidirectional Ring, a data packet must traverse through all nodes
    - All computers must be turned on in order for them to connect with one another
+
+## Star Topology
+
+Each device in a star topology has a dedicated point-to-point link to a central controller, which is commonly referred to as the HUB. There is no direct connection between the devices. Traffic between the devices is not allowed in this topology. As an exchange, the controller is used.
+
+![screenshot](Images/Star_Topology.png)
+
+  ## Advantages
+   - When attaching or disconnecting devices, there are no network interruptions
+   - It’s simple to set up and configure
+   - Identifying and isolating faults is simple
+   - Less Expensive than mesh 
+   - Easy to install & configure
+  ## Disadvantages
+   - Nodes attached to the hub, switch, or concentrator is failed if they fail
+   - Because of the expense of the hubs, it is more expensive than linear bus topologies
+   - More cable is required compared to a bus or ring 
+   - Too much dependency on Hub
+
+## Mesh Topology
+
+Every device in a mesh topology has dedicated point-to-point connectivity to every other device. The term “dedicated” refers to the fact that the link exclusively transports data between the two devices it links. To connect n devices, a fully connected mesh network contains n *(n-1)/2 physical channels.
+
+![screenshot](Images/Mesh_Topology.png)
+  ## Advantages
+   - Data can be sent from multiple devices at the same time. This topology can handle a lot of traffic.
+   - Even if one of the connections fails, a backup is always available. As a result, data transit is unaffected.
+   - Physical boundaries prevent other users from gaining access to messages.
+   - Point to Point links make fault transmission & fault isolation easy.
+  ## Disadvantages
+   - The amount of cabling and the number of I/O ports that are necessary.
+   - The sheer bulk of wiring can be greater than the available space can accommodate.
+   - It is difficult to install and reconfigure.
+
+## Tree Topology
+
+The topology of a tree is similar to that of a star. Nodes in a tree, like those in a star, are connected to a central hub that manages network traffic. It has a root node, which is connected to all other nodes, producing a hierarchy. Hierarchical topology is another name for it. The number of Star networks is connected via Bus in Tree Topology.
+
+![screenshot](Images/Tree_Topology.png)
+
+  ## Advantages
+   - Network expansion is both possible and simple.
+   - We partition the entire network into pieces (star networks) that are easier to manage and maintain.
+   - Other segments are unaffected if one segment is damaged.
+  ## Disadvantages
+   - Tree topology relies largely on the main bus cable because of its basic structure, and if it fails, the entire network is    handicapped.
+   - Maintenance becomes more challenging when more nodes and segments are added.
 
 
 
