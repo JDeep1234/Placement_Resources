@@ -75,7 +75,7 @@ The structure of the network and how each component is connected to the others a
 
 ## Bus Topology
 
-[Bus Topology][Computer_Networks/Images/Bus_Topology.png]
+![Bus Topology](Computer_Networks/Images/Bus_Topology.png)
 
 
 
