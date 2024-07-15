@@ -75,7 +75,29 @@ The structure of the network and how each component is connected to the others a
 
 ## Bus Topology
 
-![Bus Topology](Computer_Networks/Images/Bus_Topology.png)
+Every computer and network device is connected to a single cable in a bus topology network. Linear Bus topology is defined as having exactly two terminals.
+
+![screenshot](Bus_Topology.png)
+
+  ## Advantages
+   - Installation is simple
+   - Compared to mesh, star, and tree topologies, the bus utilizes less cabling
+  ## Disadvantages
+   - Difficulty in reconfiguring and isolating faults
+   - A bus cable malfunction or break interrupts all communication
+
+## Ring Topology
+The topology is named ring topology because one computer is connected to another, with the final one being connected to the first. Exactly two neighbors for each device. A signal is passed along the ring in one direction. Each ring incorporates a repeater. 
+
+  ## Advantages
+   - Data transmission is relatively straightforward because packets only move in one direction
+   - There is no requirement for a central controller to manage communication between nodes
+   - Easy installation & Reconfiguration
+   - Simplified Faulty connections
+  ## Disadvantages
+   - In a Unidirectional Ring, a data packet must traverse through all nodes
+   - All computers must be turned on in order for them to connect with one another
+
 
 
 
