@@ -75,7 +75,7 @@ The structure of the network and how each component is connected to the others a
 
 ## Bus Topology
 
-[Bus Topology][https://media.geeksforgeeks.org/wp-content/uploads/20230508175000/bus.webp]
+[Bus Topology][Computer_Networks/Images/Bus_Topology.png]
 
 
 
