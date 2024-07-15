@@ -77,7 +77,7 @@ The structure of the network and how each component is connected to the others a
 
 Every computer and network device is connected to a single cable in a bus topology network. Linear Bus topology is defined as having exactly two terminals.
 
-![screenshot](Bus_Topology.png)
+![screenshot](Images/Bus_Topology.png)
 
   ## Advantages
    - Installation is simple
